@@ -1,4 +1,4 @@
-# Stellar Frontend Integration Guide: Connecting to Soroban 🌐
+# XHedge (Aegis) — Stellar Frontend Integration Guide: Connecting to Soroban 🌐
 
 This guide covers how to build a modern frontend that interacts with Stellar smart contracts (Soroban). We will focus on using the **Freighter Wallet** and the **Stellar SDK**.
 
