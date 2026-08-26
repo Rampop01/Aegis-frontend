@@ -1,13 +1,13 @@
-# X-Aegis Frontend & Dashboard 🛡️📊
+# XHedge (Aegis) Frontend & Dashboard 🛡️📊
 
 <p align="center">
-  <img src="./logo.png" alt="X-Aegis Logo" width="200" />
+  <img src="./logo.png" alt="XHedge (Aegis) Logo" width="200" />
 </p>
 
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
-║           X - A E G I S   F R O N T E N D   &   D A P P            ║
+║         X H E D G E ( A E G I S )   F R O N T E N D   D A P P      ║
 ║                                                                    ║
 ║               The Volatility Shield Dashboard                      ║
 ║           Decentralized Asset Management on Stellar                ║
@@ -28,7 +28,7 @@
 
 Even stablecoins expose users in emerging economies (like Nigeria) to FX timing risk, dollar volatility relative to local inflation, and entry/exit rate manipulation. **Stable ≠ Stable relative to local purchasing power.**
 
-**X-Aegis** acts as a "Micro hedge fund for everyday Africans."
+**XHedge (Aegis)** acts as a "Micro hedge fund for everyday Africans."
 
 -   **User Action:** Users deposit stablecoins.
 -   **AI Engine:** Predicts FX volatility and local inflation trends.
@@ -45,7 +45,7 @@ Even stablecoins expose users in emerging economies (like Nigeria) to FX timing 
 
 ```mermaid
 graph TD
-    User((User)) -->|Deposit USDC| UI[X-Aegis Dashboard]
+    User((User)) -->|Deposit USDC| UI[XHedge (Aegis) Dashboard]
     UI -->|Invoke| Vault[Soroban Vault Contract]
     
     subgraph "AI Engine (Backend)"
