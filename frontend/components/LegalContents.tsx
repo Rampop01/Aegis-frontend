@@ -11,12 +11,12 @@ export const TermsOfServiceContent = () => (
     
     <h3 className="text-lg font-semibold text-foreground mt-6 mb-2">2. Description of Service</h3>
     <p>
-      X-Aegis provides a decentralized vault and automated rebalancing system ("Keeper Bot"). We do not hold custody of your private keys. You are solely responsible for the security of your wallet.
+      X-Aegis provides a decentralized vault and automated rebalancing system (&quot;Keeper Bot&quot;). We do not hold custody of your private keys. You are solely responsible for the security of your wallet.
     </p>
     
     <h3 className="text-lg font-semibold text-foreground mt-6 mb-2">3. Risks and Liabilities</h3>
     <p>
-      Using decentralized finance (DeFi) protocols involves significant risks, including but not limited to smart contract vulnerabilities, market volatility, and loss of funds. X-Aegis is provided "as is" without any warranties. We shall not be liable for any direct or indirect losses incurred while using the platform.
+      Using decentralized finance (DeFi) protocols involves significant risks, including but not limited to smart contract vulnerabilities, market volatility, and loss of funds. X-Aegis is provided &quot;as is&quot; without any warranties. We shall not be liable for any direct or indirect losses incurred while using the platform.
     </p>
     
     <h3 className="text-lg font-semibold text-foreground mt-6 mb-2">4. User Obligations</h3>
@@ -43,7 +43,7 @@ export const PrivacyPolicyContent = () => (
     
     <h3 className="text-lg font-semibold text-foreground mt-6 mb-2">2. Local Storage</h3>
     <p>
-      We use your browser's local storage to save your UI preferences and to remember if you have accepted our Terms of Service. We do not use tracking cookies or third-party analytics that compromise your anonymity.
+      We use your browser&apos;s local storage to save your UI preferences and to remember if you have accepted our Terms of Service. We do not use tracking cookies or third-party analytics that compromise your anonymity.
     </p>
     
     <h3 className="text-lg font-semibold text-foreground mt-6 mb-2">3. Blockchain Transparency</h3>
